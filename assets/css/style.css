@@ -27,13 +27,20 @@
     padding: 5px;
     font-size: larger;
   }
+  h3 a{
+    text-decoration: none;
+    color: inherit;
+  }
+  h3 a:hover{
+    text-decoration: underline;
+  }
 
   .header-row a {
     text-decoration: none;
   }
 
   .header-row a:hover {
-    text-decoration: underline;
+    text-decoration: none;
   }
 
   .row {
